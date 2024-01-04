@@ -1,0 +1,13 @@
+package com.methods.examples;
+
+public class ExampleTwo {
+
+	public void print(StudentTwo st) {
+		System.out.println(st.id+" "+st.name+" "+st.age);
+	}
+}
+class StudentTwo{
+	int id;
+	String name;
+	int age;
+}

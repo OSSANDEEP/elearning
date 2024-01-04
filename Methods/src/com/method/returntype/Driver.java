@@ -1,0 +1,22 @@
+package com.method.returntype;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Driver d = new Driver();
+		Person person = d.getDetails();
+		System.out.println(person.pid +" "+person.pname+" "+person.page);
+	}
+	Person getDetails() {
+		Person p = new Person();
+		p.pid =123;
+		p.pname = "Ravi";
+		p.page =43;
+		return p;
+	}
+}
+class Person{
+	int pid;
+	String pname;
+	int page;
+}

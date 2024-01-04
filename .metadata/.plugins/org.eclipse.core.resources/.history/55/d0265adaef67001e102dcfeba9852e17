@@ -1,0 +1,18 @@
+package com.methods.examples;
+
+public class Driver {
+
+	public static void main(String[] args) {
+
+		
+		
+	}
+	
+	public 
+public class Student{
+	
+	int id;
+	String name;
+	}
+}
+

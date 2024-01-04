@@ -1,0 +1,17 @@
+package com.method.returntype;
+
+public class DriverC {
+
+	College getDetails() {
+		College college = new College();
+		college.cid =101;
+		college.cname = "MRITS";
+		college.ccode = "MRITS";
+		return college;
+	}
+}
+class College{
+	int cid;
+	String cname;
+	String ccode;
+}

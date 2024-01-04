@@ -1,0 +1,22 @@
+package com.method.returntype;
+
+public class DriverC {
+
+	public static void main(String[] args) {
+		DriverC dc = new DriverC();
+		College clg = dc.getDetails();
+		System.out.println(clg);
+	}
+	College getDetails() {
+		College college = new College();
+		college.cid =101;
+		college.cname = "MRITS";
+		college.ccode = "MRITS";
+		return college;
+	}
+}
+class College{
+	int cid;
+	String cname;
+	String ccode;
+}

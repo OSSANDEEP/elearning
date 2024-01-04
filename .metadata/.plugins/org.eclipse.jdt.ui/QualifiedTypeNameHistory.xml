@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.methods.examples.Driver.Student"/>
+    <fullyQualifiedTypeName name="com.methods.examples.ExampleTwo"/>
+    <fullyQualifiedTypeName name="com.methods.examples.StudentTwo"/>
+    <fullyQualifiedTypeName name="com.methods.examples.Driver"/>
+    <fullyQualifiedTypeName name="com.methods.examples.Employee"/>
+    <fullyQualifiedTypeName name="com.methods.examples.Product"/>
+    <fullyQualifiedTypeName name="com.methods.examples.DriverP"/>
+    <fullyQualifiedTypeName name="com.methods.examples.DriverD"/>
+    <fullyQualifiedTypeName name="com.methods.examples.Doctor"/>
+    <fullyQualifiedTypeName name="com.method.returntype.Person"/>
+    <fullyQualifiedTypeName name="com.method.returntype.Driver"/>
+    <fullyQualifiedTypeName name="com.method.returntype.College"/>
+    <fullyQualifiedTypeName name="com.method.returntype.DriverC"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,16 @@
+package com.method.returntype;
+
+public class Driver {
+
+	Person getDetails() {
+		Person p = new Person();
+		p.pid =123;
+		p.pname = "Ravi";
+		p.page =43;
+	}
+}
+class Person{
+	int pid;
+	String pname;
+	int page;
+}

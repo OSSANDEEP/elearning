@@ -1,0 +1,36 @@
+package com.method.returntype;
+
+public class DriverR {
+
+	public static void main(String[] args) {
+
+		DriverR dr =  new DriverR();
+		
+		
+		Person p1 = new Person();
+		dr.getById(101);
+	}
+	Person getById(int id) {
+		
+		Person p = new Person();
+		
+		if(id == 101) {
+			p.id = 101;
+			p.name ="Raju";
+			p.age = 43;
+		}
+		else {
+			p.id = 102;
+			p.name = "Rani";
+			p.age =35;
+
+		}
+		return p;
+	}
+
+}
+class Person{
+	int id;
+	String name;
+	int age;
+}

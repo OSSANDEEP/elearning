@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.methods.examples.Driver&apos; to &apos;ExampleOne&apos;&#x0D;&#x0A;- Original project: &apos;Methods&apos;&#x0D;&#x0A;- Original element: &apos;com.methods.examples.Driver&apos;&#x0D;&#x0A;- Renamed element: &apos;com.methods.examples.ExampleOne&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Driver&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.methods.examples{Driver.java[Driver" matchStrategy="1" name="ExampleOne" qualified="false" references="true" similarDeclarations="false" stamp="1696999358758" textual="false" version="1.0"/>
+</session>

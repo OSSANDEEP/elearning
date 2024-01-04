@@ -1,0 +1,21 @@
+package com.methods.examples;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Driver d = new Driver();
+		
+		Employee emp = new Employee();
+		emp.id =302;
+		emp.salary = 58435;
+		d.print(emp);
+	}
+	void print(Employee emp) {
+		System.out.println(emp);
+	}
+}
+
+class Employee{
+	int id;
+	int salary;
+}
